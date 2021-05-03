@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="comprension.svg"
+   viewBox="0 0 1182.2447 686.13924"
+   sodipodi:version="0.32"
+   version="1.1"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="1182.2446"
+   height="686.13922">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3411"
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3413"
+         stdDeviation="7.234375"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="1017"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.75164237"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="407.78062"
+     inkscape:cy="480.92309"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     transform="translate(54.940684,-338.12284)">
+    <g
+       id="g3415"
+       transform="matrix(3.0223941,0,0,2.2983004,-121.32817,243.90057)">
+      <path
+         id="path3161"
+         style="fill:#888a85;stroke:#000000;stroke-width:2;stroke-linejoin:round;filter:url(#filter3411)"
+         inkscape:connector-curvature="0"
+         d="m 98.469,65.875 c -24.323,0 -43.907,19.584 -43.907,43.905 v 43.91 c 0,24.32 19.584,43.9 43.907,43.9 H 121.5 l 63.44,117.07 -36.5,-117.07 h 188.18 c 24.33,0 43.91,-19.58 43.91,-43.9 v -43.91 c 0,-24.321 -19.58,-43.905 -43.91,-43.905 H 98.47 Z" />
+      <path
+         id="rect2383"
+         style="fill:#eeeeec;stroke:#000000;stroke-width:2;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         d="m 90.469,59.875 c -24.323,0 -43.907,19.584 -43.907,43.905 v 43.91 c 0,24.32 19.584,43.9 43.907,43.9 H 113.5 l 63.44,117.07 -36.5,-117.07 h 188.18 c 24.33,0 43.91,-19.58 43.91,-43.9 v -43.91 c 0,-24.321 -19.58,-43.905 -43.91,-43.905 H 90.47 Z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.64741135px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06618524"
+       x="74.227745"
+       y="450.03665"
+       id="text4531"
+       transform="scale(0.97108865,1.0297721)"><tspan
+         sodipodi:role="line"
+         id="tspan4561"
+         x="74.227745"
+         y="450.03665"
+         style="stroke-width:1.06618524">Todo esto está muy bien, </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4563"
+         x="74.227745"
+         y="503.34592"
+         style="stroke-width:1.06618524">estás diciendo que se trabaje desde la comprensión, </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4565"
+         x="74.227745"
+         y="556.65515"
+         style="stroke-width:1.06618524">pero no puedo dedicarle mucho tiempo, </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4567"
+         x="74.227745"
+         y="609.96442"
+         style="stroke-width:1.06618524">que luego hay que mecanizar.  </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4533"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(36.2,47.512)"><flowRegion
+         id="flowRegion4535"><rect
+           id="rect4537"
+           width="27.938818"
+           height="107.76402"
+           x="202.22383"
+           y="160.08414" /></flowRegion><flowPara
+         id="flowPara4539"></flowPara></flowRoot>  </g>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
