@@ -11,13 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="comprension.svg"
-   viewBox="0 0 1182.2447 686.13924"
+   viewBox="0 0 991.24859 576.37734"
    sodipodi:version="0.32"
    version="1.1"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="1182.2446"
-   height="686.13922">
+   width="991.24854"
+   height="576.37732">
   <defs
      id="defs4">
     <filter
@@ -42,9 +42,9 @@
      inkscape:window-x="-8"
      showgrid="false"
      borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="407.78062"
-     inkscape:cy="480.92309"
+     inkscape:current-layer="g3415"
+     inkscape:cx="432.45332"
+     inkscape:cy="412.25136"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -56,7 +56,7 @@
      id="layer1"
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     transform="translate(54.940684,-338.12284)">
+     transform="translate(-16.37815,-379.21301)">
     <g
        id="g3415"
        transform="matrix(3.0223941,0,0,2.2983004,-121.32817,243.90057)">
@@ -109,7 +109,7 @@
            height="107.76402"
            x="202.22383"
            y="160.08414" /></flowRegion><flowPara
-         id="flowPara4539"></flowPara></flowRoot>  </g>
+         id="flowPara4539" /></flowRoot>  </g>
   <metadata
      id="metadata20">
     <rdf:RDF>

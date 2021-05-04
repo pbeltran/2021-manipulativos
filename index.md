@@ -14,6 +14,7 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 # ¿Qué entendemos por materiales manipulativos? {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
+
 ## Decepcionando de entrada {data-background-image="assets/intro.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
@@ -165,15 +166,12 @@ Precisión, escala, disponibilidad, etc.
 # Consideraciones y malos usos {data-background-image="assets/clase.jpg" data-background-opacity="0.18"}
 
 
-## Malos usos {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+## Malos usos, usos no tan buenos... {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
 > Generalidades
 
 - No considerar las interacciones como algo central del trabajo con manipulativos: los alumnos tienen que expresar sus acciones. Es una oportunidad para que el docente evalúe los razonamientos, permitiendo detectar concepciones y modos de razonamiento.
 - No organizar ni planificar bien su uso, atendiendo a la forma en que la manipulación del material representa el objeto matemático en cuestión
-
-
-
 
 
 
@@ -257,13 +255,28 @@ What number is more than five but less than nine?
 
 ## Regletas de Cuisenaire {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
-> Las regletas de Cuisenaire representan cantidades continuas de magnitud. Exigen medir (y no solo longitud), no contar.
+> Representan cantidades continuas de magnitud. Exigen medir (y no solo longitud), no contar.
 
-- A edades tempranas se desarrolla una idea discreta de número, contando colecciones de objetos. 
+:::::::::::::: {.columns}
+
+::: {.column width="80%"}
+
+- A edades tempranas se desarrolla una idea discreta de número.
 - Alumnos con dificultades llegan a contar las regletas sin atender a su longitud.
 - Cuando se quiere asociar una regleta con un número el proceso de conteo puede resultar extraño.
 - No conectan por sí mismas modelo concreto de número y símbolo (numeral).
-- Permiten establecer situaciones de comparación de cantidades de longitud, pero si las usamos simplemente para comparar 3 vs 4, asumimos que más largo siempre significa mayor que. 
+- Permiten establecer situaciones de comparación de cantidades de longitud, pero si las usamos simplemente para comparar 3 y 4, asumimos que *más largo* siempre significa *mayor que*. 
+:::
+
+::: {.column width="20%"}
+
+![](assets/images/cuisenaire3.jpg){width=100%}  
+
+:::
+:::::::::::::
+
+
+
 
 ## Regletas de Cuisenaire {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
@@ -275,18 +288,47 @@ Fuente: Szendrei (1996)
 
 ## Números negativos {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
-> Algo que nos puede llevar a usar mal los manipulables es pensar que los conceptos matemáticos detrás de la manipulación se ven fácilmente. Para el alumnado no es tan evidente.
+> Algo que nos puede llevar a usar mal los manipulables es pensar que los conceptos matemáticos detrás se ven fácilmente.
 
-Por ejemplo, no existe [ningún modelo concreto](https://www.cambridgemaths.org/espresso/view/introducing-negative-numbers/) (manipulativo o evocado) que reproduzca de forma intuitiva la estructura de los números enteros. Los «no entiendo» de los alumnos tendrán que ver con la naturaleza del objeto matemático que hay detrás.
+:::::::::::::: {.columns}
 
-![](assets/images/negativos.png){width=40%}  
+::: {.column width="60%"}
 
-Los «no entiendo» de los alumnos tendrán que ver con la naturaleza del objeto matemático que hay detrás.
+Por ejemplo, no existe [ningún modelo concreto](https://www.cambridgemaths.org/espresso/view/introducing-negative-numbers/) (manipulativo o evocado) que reproduzca de forma intuitiva la estructura de los números enteros. 
+:::
+
+::: {.column width="40%"}
+
+![](assets/images/negativos.png){width=70%}  
+
+:::
+:::::::::::::
 
 
-# Algunos ejemplos
+:::::::::::::: {.columns}
 
-## Algoritmos tradicionales de las operaciones
+::: {.column width="60%"}
+
+Los **«no entiendo»** de los alumnos tendrán que ver con la naturaleza del objeto matemático que hay detrás. 
+
+¿Visión platónica? ¿Monumentalismo?
+
+:::
+
+::: {.column width="40%"}
+
+![](assets/images/platon.jpg){width=55%}  
+
+:::
+:::::::::::::
+
+
+
+# Algunos ejemplos de aritmética {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.20"}
+
+## Algoritmos tradicionales de las operaciones {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+> Pero... ¿cómo vamos a hacer problemas si no saben ni sumar?.
 
 :::::::::::::: {.columns}
 
@@ -305,12 +347,10 @@ Los «no entiendo» de los alumnos tendrán que ver con la naturaleza del objeto
 :::
 :::::::::::::
 
-## Previamente
 
-Técnicas de cálculo oral. 
-Ábaco.
+## Una opción {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
-## Una opción
+
 
 :::::::::::::: {.columns}
 
@@ -321,7 +361,9 @@ Utilizar puntos, barras y placas para los de la suma y la resta.
 ![](assets/images/placas.png){width=60%}  
 
 Plantillas que usamos en [\@dm_unizar](https://twitter.com/dm_unizar): [puntos](assets/images/plantillasunidades.pdf), [barras](assets/images/plantillasdecenas.pdf)
-y [placas](assets/images/plantillascentenas.pdf)
+y [placas](assets/images/plantillascentenas.pdf).
+
+[Plantillas de billetes](https://tierradenumeros.com/post/billetes-imprimibles-para-aprender-el/).
 
 :::
 
@@ -329,41 +371,101 @@ y [placas](assets/images/plantillascentenas.pdf)
 
 Utilizar billetes u otro material estructurado de base 10 para la multiplicación y la división.
 
-![](assets/images/soroban.png){width=90%}  
+![](assets/images/billetes.jpg){width=40%}  
 
+![](assets/images/billetesBN.png){width=40%}  
 
 :::
 :::::::::::::
 
+## Algoritmo de la suma  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
-## División
+:::::::::::::: {.columns}
+
+::: {.column width="30%"}
+
+$356+878$
+
+Representa estos números con la menor cantidad de billetes posible.
+
+:::
+
+::: {.column width="65%"}
+
+![](assets/images/sumas01.jpg){width=100%}  
+
+:::
+:::::::::::::
+
+![](assets/images/sumas02.jpg){width=60%}  
+
+## Algoritmo de la suma  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+
+$356+878$
+
+
+![](assets/images/sumas03.jpg){width=100%}  
+
+
+## Algoritmo de la suma  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+$356+878$
+
+![](assets/images/sumas04.gif){width=100%}  
+
+
+## Algoritmo de la suma  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+$356+878$
+
+![](assets/images/sumas05.gif){width=100%}  
 
 
 
-
-## ¿Tiene sentido?
+## Algoritmo de la suma  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
 ::: {.column width="49%"}
-
-![](assets/images/comprension.svg){width=90%} 
+![](assets/images/sumas06.png){width=100%}  
 
 :::
 
 ::: {.column width="49%"}
 
-¿Qué sentido tiene tener al alumnado bajando ceros de las nubes?
-
-Si no profundizas en el significado de esas operaciones:
-
-- O se hacen mentalmente con cualquier otra estrategia.
-- O con calculadora.
+![](assets/images/sumas07.png){width=100%}  
 
 :::
 :::::::::::::
 
-## Algoritmo de la división
+
+## Algoritmo anglosajón de la resta {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+![](assets/images/resta1.gif){width=100%}  
+
+
+## Algoritmo tradicional (España) de la resta {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+![](assets/images/resta2.gif){width=100%}  
+
+## Algoritmo de la multiplicación  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+![](assets/images/multiplicacion1.jpg){width=70%}  
+
+[Algoritmos de la multiplicación y la división](https://tierradenumeros.com/post/hilo-algoritmos-tradicionales-multiplicacion-division/)
+
+
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+![](assets/images/comprension.svg){width=60%} 
+
+> ¿Qué sentido tiene tener al alumnado bajando ceros de las nubes?
+
+Si no se profundiza en el significado de esas operaciones, o se hacen mentalmente con cualquier otra estrategia. O con calculadora.
+
+
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -380,7 +482,7 @@ Si no profundizas en el significado de esas operaciones:
 :::
 :::::::::::::
 
-## Algoritmo de la división
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -397,7 +499,7 @@ Si no profundizas en el significado de esas operaciones:
 :::
 :::::::::::::
 
-## Algoritmo de la división
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -415,7 +517,7 @@ Si no profundizas en el significado de esas operaciones:
 :::::::::::::
 
 
-## Algoritmo de la división
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -432,7 +534,7 @@ Si no profundizas en el significado de esas operaciones:
 :::
 :::::::::::::
 
-## Algoritmo de la división
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -450,43 +552,66 @@ Si no profundizas en el significado de esas operaciones:
 :::::::::::::
 
 
-## Algoritmo de la división
+## Algoritmo de la división  {data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+
+![](assets/images/division09.jpg){width=50%}
+
+
+
+## Números{data-background-image="assets/images/abacohorizontal.png" data-background-opacity="0.12"}
+
+> ¿Por qué es importante profundizar en el sistema decimal posicional y, en definitiva, aprender de manera significativa?
+
+![](assets/images/contar2.jpg){width=90%}
+
+
+## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
 ::: {.column width="49%"}
 
-![](assets/images/division09.jpg){width=100%}
+![](assets/images/contar4.png){width=100%}
+
+Una improvisación en el aula.
+
 
 :::
 
 ::: {.column width="49%"}
 
-![](assets/images/division10.jpg){width=100%}
+![](assets/images/pascalina.png){width=100%}
+
+Pascalina. Fuente: Bartolini & Martignone (2014)
+
 
 :::
 :::::::::::::
 
 
+## Consecuencias a largo plazo {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.12"}
+
+Repartimos 5 tortillas entre 4 personas. ¿Qué cantidad recibe cada participante?
+
+![](assets/images/reparto0.jpg){width=60%}
+
+## Consecuencias a largo plazo {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.12"}
+
+![](assets/images/reparto1.jpg){width=100%}
+
+¿Qué ocurre después de haber hecho una cuantas de estas en 3º ESO?
+
+## Consecuencias a largo plazo {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.12"}
+
+![](assets/images/reparto2.png){width=80%}
+
+[Sobre la conexión decimal-fracción](https://tierradenumeros.com/post/hilo-conexion-decimal-fraccion-tortillas-unpacked/)
 
 
+# Otros ejemplos, medida, geometría, probabilidad {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
-## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
-
-![](assets/images/contar2.jpg){width=100%}
-
-
-## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
-
-
-![](assets/images/contar3.jpg){width=90%}
-
-## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
-
-![](assets/images/contar4.png){width=80%}
-
-
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
@@ -498,87 +623,106 @@ Si no profundizas en el significado de esas operaciones:
 
 ::: {.column width="60%"}
 
-> Los diferentes significados son un conocimiento especializado.
+> Saber sobre los diferentes significados es un conocimiento especializado didáctico-matemático.
 
 - Parte-todo.
 - Medida.
 - Cociente.
 - Razón.
-- Probabilidad.
-
 
 :::
 :::::::::::::
 
+## ¿Cómo afecta el modelo?  {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+¿Qué fracción hemos representado aquí?
+
+![](assets/images/partetodo1.jpg){width=70%}
+
+## ¿Cómo afecta el modelo?  {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
+
+¿Qué fracción hemos representado aquí?
+
+![](assets/images/partetodo2.jpg){width=90%}
+
+
+
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/medida2.jpg){width=80%}
 
-Materiales de [SergioMJGR](https://twitter.com/SergioMJGR) y [auroradp64](https://twitter.com/auroradp64), basadas en trabajos de Escolano, Gairín y otros.
+Materiales de [SergioMJGR](https://twitter.com/SergioMJGR) y [auroradp64](https://twitter.com/auroradp64) y actividades basadas en trabajos de Escolano, Gairín y otros [dm_unizar](https://twitter.com/dm_unizar).
 
 
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/medida3.jpg){width=90%}
 
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/medida6.jpg){width=90%}
 
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
-![](assets/images/medida4.jpg){width=70%}
-
-## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
-
-![](assets/images/tiras1.jpg){width=52%}
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 
+![](assets/images/tiras1.jpg){width=60%}
 
-## Geometría: áreas
+## Geometría: áreas {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
 ![](assets/images/areas.jpg){width=90%}
 
+## Probabilidad (y geometría) {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
+
+![](assets/images/probabilidad1.jpg){width=90%}
+
+[¿Por qué experimentar en probabilidad?](https://tierradenumeros.com/post/hilo-por-que-experimentar-en-probabilidad/)
 
 
+## Probabilidad (y geometría) {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.12"}
 
-# ¿Alguna pauta? {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
-
-## Criterios para seleccionar manipulativos {data-background-image="assets/horizon.jpg" data-background-opacity="0.12"}
-
-Clements & McMillen (1996)
-
-- Fundamentalmente, son para uso del alumnado.
-- Deben permitir poner en juego estrategias informales del alumnado.
-- Cuidado con seleccionar material estructurado antes de tiempo. Se corre el riesgo de crear un nuevo sistema de numerales.
-- Privilegiar los manipulativos de largo recorrido (policubos, por ejemplo).
-- Elegirlos de manera que representen adecuadamente el objeto matemático en cuestión y permita la reflexión sobre sus propiedades.
-- Cuando se introduce un objeto matemático, considerar las ventajas de ceñirse al empleo de un solo manipulativo. Pero tampoco desdeñar el uso de varios.
-- Considerar el empleo de manipulativos virtuales cuando sea adecuado. 
+![](assets/images/probabilidad2.jpg){width=90%}
 
 
+# Y ahora, ¿qué? {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
-## Consejos clave
+## Algunos criterios para seleccionar {data-background-image="assets/horizon.jpg" data-background-opacity="0.12"}
 
-- En general, hacer que los manipulativos formen parte del trabajo de aula.
-- Familiarizarse con el material antes de lanzarse a elucubrar abstracciones.
-- Asumir la diversidad: tiempo, ganancias de aprendizaje...
-- 
+::: incremental
 
+- Son para uso del alumnado, no del docente, y deben permitir poner en juego estrategias informales.
+- Cuidado con seleccionar material estructurado antes de tiempo. Por ejemplo, se corre el riesgo de crear un nuevo sistema de numerales.
+- Algunos manipulativos son «de largo recorrido» (¿policubos?).
+- Para introducir un objeto matemático, considerar las ventajas de ceñirse a un solo manipulativo. No desdeñar el uso de varios.
+- Valorar y utilizar **virtuales** cuando sea adecuado. Son lo mismo.
 
+:::
 
-# Terminando
-
-## Y ahora, ¿qué?
  
- ## ¿Cuándo es adecuado utilizar manipulativos?
+## Terminando {data-background-image="assets/horizon.jpg" data-background-opacity="0.12"}
 
-> Siempre que el manipulativo resulte familiar o intuitivo y permita organizar una serie de acciones sobre las que reflexionar y que representen bien el objeto matemático en cuestión.
- 
- There is no best educational choice between different kinds of manipulatives. Rather the choice depends on different factors (what is available, what fits better the students’ culture and expectations, and so on) and, above all, on teachers’ system of beliefs and view on math- ematics. There is never a “natural” access to the embodied mathematics, as no artifact is transparent in its embodied mathematical mean- ing (Ball 1992; Meira 1998): a suitable context and set of tasks are always required.
- 
- 
+
+::: incremental
+
+- Se trata de hacer que los manipulativos formen parte del trabajo **habitual** de aula.
+- El manipulativo ha de resultar familiar (dar tiempo) o intuitivo y permitir organizar acciones sobre las que reflexionar y que representen bien el objeto matemático en cuestión.
+- Nada es tan natural como nos puede parecer.
+- Asumir la diversidad.
+
+:::
+
+
+# Una breve reflexión como tarea {data-background-image="assets/computer.jpg" data-background-opacity="0.20"}
+
+## Una breve reflexión como tarea {data-background-image="assets/computer.jpg" data-background-opacity="0.12"}
+
+1. Realizar una lista de los manipulativos físicos existentes en el centro.
+2. Complementar dicha lista con alguno de los manipulativos mencionados en la charla (imprimibles o fácilmente realizables).
+3. Indicar qué contenido(s) matemático(s) se puede abordar con ellos.
+4. Si has conocido en la charla algún nuevo manipulativo (o forma de utilización de alguno que ya conocías), señala si vas a considerar su empleo en el aula y cómo (a grandes rasgos).
+
+> Entregar un documento de texto (no más de una página) en formato pdf, vía la plataforma de las jornadas.
+
 
 # Créditos y referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
@@ -590,13 +734,14 @@ Baroody, A. J. (1993). Introducing Number and Arithmetic Concepts with Number St
 
 Bartolini M.G., Martignone F. (2014) Manipulatives in Mathematics Education. In: Lerman S. (eds) *Encyclopedia of Mathematics Education*. Springer, Dordrecht. 
 
+## Algunas referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
+
 Clements, D. H., & McMillen, S. (1996). Rethinking “Concrete” Manipulatives. *Teaching Children Mathematics, 2*(5), 270–279.
 
 Sinclair, N., & Baccaglini-Frank, A. (2016). Digital technologies in the early primary school classroom. En English, L. D., & Kirshner, D. *Handbook of international research in mathematics education*. New York & London: Routledge.
 
 
 Szendrei J. (1996) Concrete Materials in the Classroom. In: Bishop A.J., Clements K., Keitel C., Kilpatrick J., Laborde C. (eds) *International Handbook of Mathematics Education. Kluwer International Handbooks of Education*, vol 4. Springer, Dordrecht
-
 
 
 ## Créditos {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
