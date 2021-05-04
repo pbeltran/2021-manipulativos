@@ -14,7 +14,6 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 # ¿Qué entendemos por materiales manipulativos? {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-
 ## Decepcionando de entrada {data-background-image="assets/intro.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
@@ -364,7 +363,109 @@ Si no profundizas en el significado de esas operaciones:
 :::
 :::::::::::::
 
-## 
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division01.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division02.png){width=100%}
+
+:::
+:::::::::::::
+
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division03.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division04.jpg){width=100%}
+
+:::
+:::::::::::::
+
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division03.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division04.jpg){width=100%}
+
+:::
+:::::::::::::
+
+
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division05.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division06.jpg){width=100%}
+
+:::
+:::::::::::::
+
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division07.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division08.jpg){width=100%}
+
+:::
+:::::::::::::
+
+
+## Algoritmo de la división
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+![](assets/images/division09.jpg){width=100%}
+
+:::
+
+::: {.column width="49%"}
+
+![](assets/images/division10.jpg){width=100%}
+
+:::
+:::::::::::::
 
 
 
@@ -372,19 +473,8 @@ Si no profundizas en el significado de esas operaciones:
 
 ## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
 
-:::::::::::::: {.columns}
-
-::: {.column width="35%"}
-![](assets/images/numerosyalgoritmos.jpg){width=100%}
-
-:::
-
-::: {.column width="65%"}
-
 ![](assets/images/contar2.jpg){width=100%}
 
-:::
-:::::::::::::
 
 ## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
 
