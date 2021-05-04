@@ -6,7 +6,7 @@ title-slide-attributes:
 - data-background-color: aquamarine
 title: Los materiales manipulativos en el aprendizaje activo y significativo de las matemáticas 
 subtitle: 
-author: <a href="https://www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br> CPI Val de la Atalaya (María de Huerva), Universidad de Zaragoza <br> <br> II Jornadas sobre materiales para el aula de matemáticas en primaria <br> 4 de mayo de 2021 <br> <img src="assets/images/logos.png" align="center" style="padding-right:0px" height="180px"> <img src="assets/qr.png" align="center" style="padding-right:0px" height="180px"> <br>  <a href="https://pbeltran.github.io/2021-manipulables">https://pbeltran.github.io/2021-manipulativos</a> <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">  
+author: <a href="https://www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br> CPI Val de la Atalaya (María de Huerva), Universidad de Zaragoza <br> <br> II Jornadas sobre materiales para el aula de matemáticas en primaria <br> 4 de mayo de 2021 <br> <img src="assets/images/logos.png" align="center" style="padding-right:0px" height="180px"> <img src="assets/qr.png" align="center" style="padding-right:0px" height="180px"> <br>  <a href="https://pbeltran.github.io/2021-manipulativos">https://pbeltran.github.io/2021-manipulativos</a> <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">  
 rollingLinks: true
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 
 
